@@ -12,7 +12,7 @@ A brief list of stuff I like to work on:
 I run my Agency's R Users Group, so please reach out if you'd like to present!
 
 
-# Some things to highlight 
+# Some projects to highlight 
 - - **[TidyTuesday repo](https://github.com/jacobpstein/tidytuesday)**: One data set, one hour. A repo with whatever I manage to do in that time.
 - - **[pii R package](https://github.com/jacobpstein/pii)**: developed to help flag potential personal information in survey data sets.
 - - **[Math for Data Science](https://github.com/jacobpstein/math_for_ds)**: repo with python code for the concepts, exercises, and lessons from the excellent [Essential Math for Data Science by Thomas Nield](https://www.oreilly.com/library/view/essential-math-for/9781098102920/). I started this just to force myself to work through the book, but it ended up being pretty fun.
