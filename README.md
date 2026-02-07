@@ -5,7 +5,7 @@ Hello! I'm Jacob. I'm a data scientist/economist. A lot of my work is focused on
 A brief list of stuff I like to work on:
 
 - Food, music, and basketball
-- Web scraping to get data on everything from maize imports in Zambia to shot selection for the Wizards
+- Learning how to create accessible AI agents that enhance rather than replace colleague's work
 - Causal inference
 - Thoughtful descriptive analysis
 
